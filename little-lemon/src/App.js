@@ -11,9 +11,11 @@ import Contact from "./components/Contact";
 import Blog from "./components/Blog";
 import Footer from "./components/Footer";
 
+
 function App() {
   return (
     <>
+      
       <Navbar />
       <Home />
       <About />

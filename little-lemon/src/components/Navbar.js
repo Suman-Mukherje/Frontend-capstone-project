@@ -4,12 +4,10 @@ import Logo from "../assets/Lit.png";
 
 const Navbar = () => {
   const navbarRef = useRef();
-  const searchRef = useRef();
-  const cartRef = useRef();
+  
   const navbarHandler = () => {
     navbarRef.current.classList.toggle("active");
-    searchRef.current.classList.remove("active");
-    cartRef.current.classList.remove("active");
+    
   };
 
   
@@ -21,12 +19,12 @@ const Navbar = () => {
           <img src={Logo} alt="" />
         </a>
         <nav className="navbar" ref={navbarRef}>
-          <a href="#home">home</a>
-          <a href="#about">about</a>
-          <a href="#menu">menu</a>
-          <a href="#review">review</a>
-          <a href="#contact">contact</a>
-          <a href="#blogs">blogs</a>
+          <a href="#home">Home</a>
+          <a href="#about">About</a>
+          <a href="#menu">Menu</a>
+          <a href="#review">Review</a>
+          <a href="#contact">Reservation</a>
+          <a href="#blogs">Blogs</a>
         </nav>
         <div
             className="fas fa-bars"

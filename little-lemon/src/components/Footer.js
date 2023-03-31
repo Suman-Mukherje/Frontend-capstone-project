@@ -5,19 +5,19 @@ const Footer = () => {
     <>
       <section class="footer">
         <div class="share">
-          <a href="#" class="fab fa-facebook-f"></a>
-          <a href="#" class="fab fa-twitter"></a>
-          <a href="#" class="fab fa-instagram"></a>
-          <a href="#" class="fab fa-linkedin"></a>
-          <a href="#" class="fab fa-pinterest"></a>
+          <a href="https://www.facebook.com/" class="fab fa-facebook-f">f</a>
+          <a href="https://twitter.com/?lang=en" class="fab fa-twitter">t</a>
+          <a href="https://www.instagram.com/" class="fab fa-instagram">i</a>
+          <a href="https://www.linkedin.com/" class="fab fa-linkedin">in</a>
+          <a href="https://in.pinterest.com/" class="fab fa-pinterest">p</a>
         </div>
         <div class="links">
-          <a href="#home">home</a>
-          <a href="#about">about</a>
-          <a href="#menu">menu</a>
-          <a href="#review">review</a>
-          <a href="#contact">contact</a>
-          <a href="#blogs">blogs</a>
+          <a href="#home">Home</a>
+          <a href="#about">About</a>
+          <a href="#menu">Menu</a>
+          <a href="#review">Review</a>
+          <a href="#contact">Reservation</a>
+          <a href="#blogs">Blogs</a>
         </div>
         <div class="credit">
           created by <span>Suman Mukherjee</span> | all rights reserved

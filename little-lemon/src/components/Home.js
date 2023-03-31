@@ -12,7 +12,7 @@ const Home = () => {
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat
             labore, sint cupiditate distinctio tempora reiciendis.
           </p>
-          <a href="#" className="btn">
+          <a href="#contact" className="btn">
             Book Table
           </a>
         </div>

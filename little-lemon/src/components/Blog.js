@@ -15,15 +15,15 @@ const Blog = () => {
                 <img src={item.img} alt="" />
               </div>
               <div class="content">
-                <a href="#" class="title">
-                  tasty and refreshing spices
+                <a href="" class="title">
+                  Healthy and tasty spices
                 </a>
-                <span>by admin / 21st may, 2021</span>
+                <span>by admin / 21st Nov, 2022</span>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
                   dicta.
                 </p>
-                <a href="#" class="btn">
+                <a href="" class="btn">
                   read more
                 </a>
               </div>

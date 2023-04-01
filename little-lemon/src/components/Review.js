@@ -20,7 +20,7 @@ const Review = () => {
                 minus vel? Nemo.
               </p>
               <img src={item.img} className="user" alt="" />
-              <h3>john deo</h3>
+              <h3>Ramesh Rao</h3>
               <div className="stars">
                 <i className="fas fa-star"></i>
                 <i className="fas fa-star"></i>
